@@ -29,19 +29,19 @@ h4{
     margin-right: auto;
     background-color: rgb(191, 162, 219);
 }
-.ul-circle:hover{
+.ul-circle{
     list-style: circle;
     background-color:rgb(191, 162, 219) ;
 }
-.ul-disc:hover{
+.ul-disc{
     list-style: circle;
     background-color:rgb(191, 162, 219) ;
 }
-.ul-square:hover{
+.ul-square{
     list-style: circle;
     background-color: rgb(191, 162, 219);
 }
-.ul-order:hover{
+.ul-order{
     list-style: circle;
     background-color:rgb(191, 162, 219) ;
 }
